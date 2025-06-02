@@ -1,0 +1,10 @@
+#Capture Steps and Report :
+
+Step 1 : First Step is to Download and Install the Wireshark From its official site 
+Step 2 : Open the Wireshark and start capturing the eth0 or Wlan0 or something same 
+Step 3 : Browse something on browser or ping anything to cature the packets 
+Step 4 : After 1 min stop capturing and analyse the wireshark using keywords like hhtp, tcp, udp, etc to check the packets of specific ports
+Step 5 : Save the file with the proper name and extension 
+
+In my wireshark I had captured HTTP, DNS, TCP, UDP ,etc ports by browsing google and so on .
+ 
