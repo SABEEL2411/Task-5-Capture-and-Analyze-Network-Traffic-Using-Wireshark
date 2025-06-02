@@ -31,7 +31,8 @@
 ---
 
 ## 4️⃣ What is the difference between TCP and UDP?
-- A:  **TCP (Transmission Control Protocol)** is connection-oriented and reliable, ensuring ordered delivery with error checking and retransmission.
+- A:
+- **TCP (Transmission Control Protocol)** is connection-oriented and reliable, ensuring ordered delivery with error checking and retransmission.
 - **UDP (User Datagram Protocol)** is connectionless and faster but does not guarantee delivery, order, or error correction.
 
 ---
